@@ -24,4 +24,4 @@ A simple C++ program for managing student records, including insertion, deletion
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/HosseiniAlireza/FinalProject-Introduction-to-Programming.git)
